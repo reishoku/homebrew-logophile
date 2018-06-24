@@ -1,3 +1,7 @@
+require 'addressable/uri'
+require 'formula'
+
+
 cask 'logophile' do
   version :latest
   sha256 :no_check
