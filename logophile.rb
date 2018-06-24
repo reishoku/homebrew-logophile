@@ -1,5 +1,4 @@
-
-cask 'logophile' do
+class logophile < Cask
   version :latest
   sha256 :no_check
 
