@@ -1,4 +1,4 @@
-require 'formula'
+require 'Formula'
 
 cask 'logophile' do
   version :latest
