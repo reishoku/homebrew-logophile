@@ -1,4 +1,3 @@
-require 'Formula'
 
 cask 'logophile' do
   version :latest
