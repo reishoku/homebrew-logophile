@@ -3,7 +3,6 @@ cask 'logophile' do
   sha256 :no_check
 
   url 'http://dicwizard.jp/logophile/bin/Logophile.dmg'
-  name 'Logophile'
   homepage 'http://dicwizard.jp/logophile'
 
   app 'Logophile/Logophile.app'
