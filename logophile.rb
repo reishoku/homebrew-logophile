@@ -1,6 +1,4 @@
-require 'addressable/uri'
 require 'formula'
-
 
 cask 'logophile' do
   version :latest
